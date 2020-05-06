@@ -46,7 +46,9 @@ I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack e
 
 ### Full-Stack Developer, Lead - [Techstik](https://techstik.com) [Nov 2019 - present]
 
-//To complete
+- Implemented best practices across the code base.
+- Increased quality job acquisition by incorporating a filter algorithm into the bot logic.
+- *Leveraged knowledge:* coded with Vue.js, Nuxt.js, Node.js, state managed with Vuex, serverless Firebase backend, scheduled functions with GCP, tests with Jest, source control and CI/CD with GitLab 
 
 ---
 
@@ -54,7 +56,7 @@ I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack e
 
 **NFA:** <a href='https://networkforanimals.org/donate' target="_blank">➡️</a> An NGO International Animal Welfare Organization
 - Increased monthly donation influx to over £100K by writing a multifaceted payment form that integrated into their existing site.
-- Increased functionality by redesigning their CMS with auto newsletter generation, complex real-time reporting and data imports.
+- Increased functionality by redesigning their back office site with auto newsletter generation, complex real-time reporting and data imports.
 - Reduced error rate by implementing detailed logging in the payment steps.
 - *Leveraged knowledge:* coded with Vue.js, Javascript, C#, source control with TFS  
 
@@ -65,26 +67,27 @@ I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack e
 
 **Lindt Studio** <a href='https://chocolatestudio.co.za' target="_blank">➡️</a>
 - Improved the booking process by uncluttering the checkout form.
-- Implemented a custom CMS to manage bookings made via the website.
+- Implemented a custom back office site to manage bookings made via the website.
 - Incorporated automated functionality to alert users of events.
 - *Leveraged knowledge:* coded with Vue.js, Javascript, C#, source control with TFS
 
 **An IOT Safe:** <a href='https://intelligentsafe.co.za' target="_blank">➡️</a> Smart, computer-controlled functionality provides cutting edge security against armed robbery of high value stock.
 - Improved interface responsiveness by moving data storage and triggers to a cloud based platform.
-- Incorporated remote functionality to control units from the CMS. 
+- Incorporated remote functionality to control units from the back office site. 
 - *Leveraged knowledge:* coded with XAML, C#, cloud tech with Azure, source control with TFS
 
 **nichemarket:** <a href='https://nichemarket.co.za' target="_blank">➡️</a> South Africa's First Social Online Marketplace for Entrepreneurs and SME's
 - Implemented a social platform for businesses to advertise their trade and interact with others.
-- Implemented a CMS for the client to manage content.
+- Designed a custom CMS for the client to manage content.
 - Incorporated a static page generator with custom URL selection.
 - *Leveraged knowledge:* coded with Vue.js, Javascript, C#, source control with TFS
 
----
+### Full-Stack Developer, Intern - [Netgen (Pty) Ltd](https://www.netgen.co.za) [Nov 2016 - Feb 2017]
 
-### Full-Stack Developer, Junior - [Netgen (Pty) Ltd](https://www.netgen.co.za) [Nov 2016 - Feb 2017]
-
-//To complete
+**Internal Back Office Site**
+- At the time, the company's management system was outdated. I assisted with redesigning and re-writing it following the MVC pattern.
+- Implemented a slack bot to notify users of system events.
+- *Leveraged knowledge:* coded with Javascript, C#, source control with TFS
 
 ---
 
@@ -95,6 +98,10 @@ I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack e
 *Familier*: Node.js, C#, GraphQL, PostgreSQL, Google Cloud Platform, Jest, Mocha/Chai
 
 ## Projects
+
+Below are 2 projects that started off as side projects that I worked on in my free time. After some development, they were shaped towards production-grade software with a purpose - both of which are in use today. 
+
+---
 
 <h3>Techstik.com <a href='https://techstik.com' target="_blank">➡️</a></h3>
 
@@ -129,11 +136,5 @@ Highlights:
 - Static loaded SPA allows for zero load time after initial
 
 *Utilized*: Vue.js, Nuxt.js, Vuex, Node.js, Firebase, Jest, GitLab CI/CD 
-
----
-
-<h3>Multifaceted Donation Platform <a href='https://networkforanimals.org/donate' target="_blank">➡️</a></h3>
-
-> Explanantion here
 
 ---
