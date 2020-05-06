@@ -82,6 +82,8 @@ I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack e
 - Incorporated a static page generator with custom URL selection.
 - *Leveraged knowledge:* coded with Vue.js, Javascript, C#, source control with TFS
 
+---
+
 ### Full-Stack Developer, Intern - [Netgen (Pty) Ltd](https://www.netgen.co.za) [Nov 2016 - Feb 2017]
 
 **Internal Back Office Site**
@@ -137,4 +139,3 @@ Highlights:
 
 *Utilized*: Vue.js, Nuxt.js, Vuex, Node.js, Firebase, Jest, GitLab CI/CD 
 
----
