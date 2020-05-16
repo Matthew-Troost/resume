@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-I'm Matt from Cape Town, South Africa, working as a MEVN (Vue/Node) full-stack engineer at Techstik.com - a hub of opportunities for the tech community. I have around 3 years of experience as a software engineer with a background in .NET and a Degree in Computer Science and Biochemistry. In my spare time I am an avid ocean sportsman, biography reader and big thinker.
+I'm Matt from Cape Town, South Africa, working as a full-stack (Vue.js/Node.js) engineer at Techstik.com - a hub of opportunities for the tech community. I have around 3 years of experience as a software engineer with a background in .NET and a Degree in Computer Science and Biochemistry. In my spare time I am an avid ocean sportsman, biography reader and big thinker.
 </div>
 
 ## Education
