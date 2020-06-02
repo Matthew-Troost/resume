@@ -139,3 +139,14 @@ Highlights:
 
 *Utilized*: Vue.js, Nuxt.js, Vuex, Node.js, Firebase, Jest, GitLab CI/CD 
 
+---
+
+### Automated Crypto Trading Bot
+
+> An experimental algorithm to trade crypto currency on a minute-to-minute basis.
+
+![alt text](/images/crypto-bot.gif "Automated Crypto Trading Bot")
+
+Currently a work in progress, this is a real-time crypto currency trading bot. Every minute, the current Bitcoin price is fetched and a decision is made (based on various limits and metrics) to make a trade.
+
+*Utilized*: GraphQL, Node.js, Vue.js, Vuex, Heroku, Firebase, Mocha/Chai, Circle CI
