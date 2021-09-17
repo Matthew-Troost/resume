@@ -9,7 +9,7 @@
   <strong>Code Hobbyist</strong>
 </div>
 <div align="center">
-  <a href="mailto:matt@techstik.com">matt@techstik.com</a>
+  <a href="mailto:matthew.troost@hotmail.com">matthew.troost@hotmail.com</a>
 </div>
 <div align="center">
   <h3>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-I'm Matt, working as a full-stack (Vue.js/Node.js) engineer at Techstik.com - a hub of opportunities for the tech community. I have around 3 years of experience as a software engineer with a background in .NET and a Degree in Computer Science and Biochemistry. In my spare time I am an avid ocean sportsman, biography reader and big thinker.
+I'm Matt, working as a software engineer at <a href="https://rehive.com">Rehive</a> - a startup focused on building customizable white-label wallets and payment solutions for fintechs, marketplaces, and small businesses. I have around 4 years of experience as a software engineer and a BSc. in Computer Science and Biochemistry. In my spare time I am an avid ocean sportsman, biography reader and big thinker.
 </div>
 
 ## Education
@@ -44,7 +44,7 @@ I'm Matt, working as a full-stack (Vue.js/Node.js) engineer at Techstik.com - a 
 
 ## Employment
 
-### Full-Stack Developer, Lead - [Techstik](https://techstik.com) [Nov 2019 - present]
+### Frontend Developer, Intermediate - [Rehive](https://rehive.com) [August 2020 - present]
 
 - Implemented best practices across the code base.
 - Increased quality job acquisition by incorporating a filter algorithm into the bot logic.
@@ -95,13 +95,13 @@ I'm Matt, working as a full-stack (Vue.js/Node.js) engineer at Techstik.com - a 
 
 ## Skills
 
-*Proficient*: Javascript [Vue.js, Nuxt.js], Vuex, Firebase, MySQL, Git
+*Proficient*: Javascript [React, Node.js, Vue.js, Nuxt.js], GraphQL, PostgreSQL, Git, Heroku
 
-*Familier*: Node.js, C#, GraphQL, PostgreSQL, Google Cloud Platform, Jest, Mocha/Chai
+*Familier*: React Native, AWS, C#, Google Cloud Platform, Jest, Mocha/Chai
 
 ## Projects
 
-Below are 2 projects that started off as side projects that I worked on in my free time. After some development, they were shaped towards production-grade software with a purpose - both of which are in use today. 
+Below are a few side projects that I've worked on in my free time. 
 
 ---
 
@@ -115,7 +115,7 @@ We labeled the online tech job market as a **jungle**. There are tons of job adv
 In response to this, we wrote a simple and effective tool to curate a collection of verified jobs that display relevant information.
 
 Highlights:
-- Bot that regularly searches the web for job adverts that fit the winning format
+- Bot that regularly scrapes the web for job adverts that fit the winning format
 - Static loaded SPA allows for zero load time after initial
 - Automated tweets 
 - Dark theme...
